@@ -7,7 +7,7 @@
 ## Description
 Ideal Weather for Vacation Analysis
 
-![app_image](Fig1.png)
+![app_image](C:\Users\ernes\Homework\06-Python-APIs\python-api-challenge\output_data\Fig1.png)
 
 ## Table of Contents
 - [Installation](#installation)
